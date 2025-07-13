@@ -36,21 +36,18 @@ Showed income split by UPI, Cash, and Cards to understand preferred transaction 
 
 **4. Cancellation Analysis**
 </br>
-Customer Cancellation Reasons:
+- Customer Cancellation Reasons:
 Highlighted top causes like driver delays, plan changes, or vehicle issues to reduce drop-offs.
-
-Driver Cancellation Reasons:
+</br>
+- Driver Cancellation Reasons:
 Revealed cancellation trends due to vehicle problems, customer conflicts, or overcapacity.
 
 **5. Ratings Analysis**
 </br>
-Customer Ratings by Vehicle Type:
-Compared average satisfaction levels across vehicle categories to guide service improvements.
-
-Driver Ratings Distribution:
-Analyzed rating patterns to monitor driver performance quality and consistency.
-
-Customer and Driver Ratings:
-Compared both perspectives to identify rating mismatches and improve overall experience.
+- Customer Ratings by Vehicle Type: Compared average satisfaction levels across vehicle categories to guide service improvements.
+</br>
+- Driver Ratings Distribution: Analyzed rating patterns to monitor driver performance quality and consistency.
+</br>
+-Customer and Driver Ratings: Compared both perspectives to identify rating mismatches and improve overall experience.
 
 
