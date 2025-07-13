@@ -17,7 +17,7 @@ The dataset is a synthetically generated dataset for 1,00,000 rows based on Beng
 **📊 Key Analysis Performed Using Power BI**
 </br>
 **1. Overall Metrics**
-</br>
+
 Ride Volume Over Time:
 - Visualized booking trends daily/weekly to detect peak traffic, match days, and weekend surges.
 - Booking Status Breakdown: Analyzed success vs. cancellations by customers and drivers to assess operational reliability.
