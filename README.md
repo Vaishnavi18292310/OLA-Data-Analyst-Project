@@ -24,13 +24,11 @@ Ride Volume Over Time:
 
 **2. Vehicle Insights**
 </br>
-Top Vehicle Types by Ride Distance:
-Ranked vehicle categories (e.g., Mini, Prime Sedan, Bike) by total distance traveled to spot high-demand types.
+- Top Vehicle Types by Ride Distance: Ranked vehicle categories (e.g., Mini, Prime Sedan, Bike) by total distance traveled to spot high-demand types.
 
 **3. Revenue Analysis**
 </br>
-Revenue by Payment Method:
-Showed income split by UPI, Cash, and Cards to understand preferred transaction modes.
+- Revenue by Payment Method: Showed income split by UPI, Cash, and Cards to understand preferred transaction modes.
 
 **4. Cancellation Analysis**
 - Customer Cancellation Reasons: Highlighted top causes like driver delays, plan changes, or vehicle issues to reduce drop-offs.
