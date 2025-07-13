@@ -7,3 +7,5 @@ The goal of this project is to analyze OLA ride booking data for Bengaluru city 
 The dataset is a synthetically generated dataset for 1,00,000 rows based on Bengaluru city rides. 
 </br>
 [Dataset used](https://drive.google.com/file/d/1JEkhuwnzZ5N2JlUhLrvqIDtghWiqEDo-/view?usp=sharing)
+</br>
+<img width="1291" height="741" alt="Screenshot 2025-07-13 230224" src="https://github.com/user-attachments/assets/36fbcab3-fa4e-4e4b-b707-5582d39875dd" />
